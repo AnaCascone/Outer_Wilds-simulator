@@ -1,0 +1,26 @@
+1. NAVEGACIÓN
+
+	1.1. Es muy fácil hacer click en la nave orbital en lugar de en hondonada frágil, quizás se podría considerar como el mismo elemento aunque solo vaya a navegar al agujero negro.
+	1.2. Cuando viajas a una zona no explorada, la nave tarda un poco más de tiempo en salir de nuevo al exterior (poner un mensaje de "Explorando: ******"). Además, podría avisarse de una actualización en la base de datos. Ahora, cuando hagamos click en la zona que antes nos decía que no había suficiente información... se tachará como explorada. 
+		1.1.1. ¿Poner un mini juego para explorar? 
+	1.3. ¿Y si ponemos una gran bola alrededor de los elementos más pequeños (no visible para el usuario) para que tenga más hit a la hora de hacer click?
+	1.4. ¿Permitir que puedas cambiar el destino durante un viaje?
+	1.5. Reducir la velocidad de la nave para que no sean tan bruscos los cambios de orientación (para evitar el sol)
+	1.6. Añadir un sistema para evitar colisiones con los planetas que no nos interesan (planetas a los que no estamos viajando)
+
+2. ZOOM
+
+	2.1. Cuando está en modo zoom y activamos el modo observación no se modifica la velocidad y se queda la velocidad del zoom.
+	2.2. La velocidad del zoom quizás es un pelín exagerada.
+	2.3. Me gustaría poder hacer zoom a la nave y que si un planeta tiene la nave orbitando que se la vea dando vueltas
+
+
+3. OBSERVACIÓN
+
+	3.1. ¿Permitimos que el modo observación se pueda hacer con la animación desactivada o es demasiado show? En el caso de que no lo permitamos, avisar si estás haciendo click con la animación desactivada.
+
+4. MEJORA VISUAL
+
+	4.1. Buscar una forma de permitir más vértices y mayor nivel de detalle para las naves y los planetas.
+	4.2 Hondonada frágil... la pobre es una agujero negro rodeada por una base orbital random. No me parece horrible, pero me gustaría poder hacer la idea original.
+	4.3 Lo de las normales no funciona
